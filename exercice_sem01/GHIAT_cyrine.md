@@ -1,3 +1,3 @@
 # Cyrine Ghiat
 
-![photo](/photo_référence/portrait_02.jpg)
+![photo](photo_référence/portrait_02.png)
