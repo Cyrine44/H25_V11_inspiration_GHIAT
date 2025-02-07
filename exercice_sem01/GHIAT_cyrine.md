@@ -19,9 +19,11 @@ J'aime bien peindre des toiles et faire des peinture, crée des petits dessins d
 
 Je m'inspire de différents design qui se trouve sur Pinterest et j'aimerai arriver à ce niveau dans le futur
 
-![photo](photo_référence/
-
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="./photo_référence/porsche_blue.jpg" alt="Porsche Blue" style="width: 30%; margin-right: 10px;">
+  <img src="./photo_référence/billie.jpg" alt="Billie" style="width: 30%; margin-right: 10px;">
+  <img src="./photo_référence/moon_blue.jpg" alt="Moon Blue" style="width: 30%;">
+</div>
 
 
 
