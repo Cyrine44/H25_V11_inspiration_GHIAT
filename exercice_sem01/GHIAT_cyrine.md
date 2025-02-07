@@ -25,8 +25,10 @@ Je m'inspire de différents design qui se trouve sur Pinterest et j'aimerai arri
   <img src="./photo_référence/moon_blue.jpg" alt="Moon Blue" style="width: 30%;">
 </div>
 
-
+## Autre choses
 
 <p>
   J'aime rire et j'aime faire rire les autres, je trouve que c'est les meilleures moments dans une vie. 
 </p>
+
+<a href="https://www.example.com/my great page">link</a>
