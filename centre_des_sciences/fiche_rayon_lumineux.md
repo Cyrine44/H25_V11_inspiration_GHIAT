@@ -14,3 +14,10 @@ Moi à l'entrée du Centre des sciences de montréal au 2 R. de la Commune O, Mo
 
 Les miroirs reflètent la lumière et notre image, mais lorsqu’ils s’assemblent en une structure géométrique infinie, ils créent une illusion envoûtante.
 Ici, un écran placé stratégiquement au fond diffuse une image kaléidoscopique vibrante, qui est ensuite reflétée par les multiples surfaces miroitées. Chaque reflet se démultiplie, formant un tunnel lumineux aux motifs hypnotisants, où les jeux de symétrie et de profondeur brouillent nos repères et nous immergent dans un univers surréaliste.
+<div style="display: flex; justify-content: space-around;">
+  <img src="./photo_référence/tunel_dark.jfif" alt="photo" style="width: 30%; margin-right: 10px;">
+  <img src="./photo_référence/tunel_moi.jfif" alt="photo" style="width: 30%; margin-right: 10px;">
+  <img src="./photo_référence/tunel_light.jfif" alt="photo" style="width: 30%;">
+</div>
+moi dans le tunnel lumineux le 7 novembre 2024
+
