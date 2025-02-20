@@ -25,3 +25,7 @@ moi dans le tunnel lumineux le 7 novembre 2024
 
 **Ça porte à réfléchir** (2019) est une installation immersive conçue et réalisée par **TKNL – créateur d’expériences**. Grâce à un jeu de miroirs et de lumières, elle multiplie les reflets à l’infini, transformant notre perception de l’espace et de la réalité.
 
+<p align="center">
+  <img src="photo_référence/credits.jpg" alt="credits" />
+</p>
+
