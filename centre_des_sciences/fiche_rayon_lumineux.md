@@ -35,7 +35,8 @@ moi dans le tunnel lumineux le 7 novembre 2024
   <img src="photo_référence/croquis.png" alt="croquis" />
 </p>
 Croquis créer par moi même.
-
+<br>
+<br>
 Le musée doit fournir une **alimentation électrique** adéquate pour alimenter les écrans et les lumières LED. Il est également essentiel de prévoir un **espace suffisamment grand** pour accueillir la structure tout en permettant une circulation fluide des visiteurs. De plus, une **signalétique** claire doit être mise en place pour expliquer l’œuvre et indiquer les consignes d’interaction aux visiteurs.
 
 ## L'utilisation
@@ -49,5 +50,8 @@ Le musée doit fournir une **alimentation électrique** adéquate pour alimenter
 ## Conclusion
 Pour moi, j'ai particulièrement aimé les jeux de lumière avec l'effet infini. Ce qui m'a frappé, c'est son côté esthétique, avec les lumières qui semblent se prolonger à l'infini. C'est vraiment impressionnant et captivant. Le tunnel, en particulier, m'a attiré immédiatement, car il crée une atmosphère immersive et visuellement stimulante. C'est ce mélange entre science et art qui m'a beaucoup inspiré, et j'ai trouvé que cet aspect visuel ajoutait une dimension magique à l'exposition. J'ai aussi aimée la table du Banquet, j'ai trouvée l'immersion magnifique.
 
-
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="./photo_référence/xtra1.jpg" alt="photo" style="width: 30%; margin-right: 10px;">
+  <img src="./photo_référence/xtra2.jpg" alt="photo" style="width: 30%; margin-right: 10px;">
+  <img src="./photo_référence/xtra3.jpg" alt="photo" style="width: 30%;">
+</div>
