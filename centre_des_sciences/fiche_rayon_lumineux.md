@@ -29,3 +29,12 @@ moi dans le tunnel lumineux le 7 novembre 2024
   <img src="photo_référence/credits.jpg" alt="credits" />
 </p>
 
+#### Le module comporte une installation assez simple et pas trop complex. À l’arrière, deux écrans forme un pentagone qui diffusent des images kaléidoscopiques en mouvement, hypnotisant le regard avec une beauté immersive. Tout autour, des miroirs placés sur chaque paroi multiplient les reflets à l’infini, donnant l’impression de plonger dans un autre univers. Des lumières LED soulignent les contours et amplifient la sensation de profondeur. L’ensemble repose sur une structure en métal, assurant à la fois solidité et légèreté, pour une immersion totale dans ce jeu de reflets et de lumière.
+
+<p align="center">
+  <img src="photo_référence/croquis.png" alt="croquis" />
+</p>
+Croquis créer par moi même.
+
+Le musée doit fournir une **alimentation électrique** adéquate pour alimenter les écrans et les lumières LED. Il est également essentiel de prévoir un **espace suffisamment grand** pour accueillir la structure tout en permettant une circulation fluide des visiteurs. De plus, une **signalétique** claire doit être mise en place pour expliquer l’œuvre et indiquer les consignes d’interaction aux visiteurs.
+
