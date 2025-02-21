@@ -38,3 +38,7 @@ Croquis créer par moi même.
 
 Le musée doit fournir une **alimentation électrique** adéquate pour alimenter les écrans et les lumières LED. Il est également essentiel de prévoir un **espace suffisamment grand** pour accueillir la structure tout en permettant une circulation fluide des visiteurs. De plus, une **signalétique** claire doit être mise en place pour expliquer l’œuvre et indiquer les consignes d’interaction aux visiteurs.
 
+## L'utilisation
+
+[utilisateur](https://github.com/Cyrine44/H25_V11_inspiration_GHIAT/raw/branch/centre_des_sciences/photo_référence/video.mp4)
+
