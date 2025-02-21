@@ -40,5 +40,14 @@ Le musée doit fournir une **alimentation électrique** adéquate pour alimenter
 
 ## L'utilisation
 
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=qymqHb3ngRg&t=6s">
+    <img src="https://img.youtube.com/vi/qymqHb3ngRg/hqdefault.jpg" alt="Watch the video" style="max-width: 100%; height: auto;">
+  </a>
+</div>
+
+## Conclusion
+Pour moi, j'ai particulièrement aimé les jeux de lumière avec l'effet infini. Ce qui m'a frappé, c'est son côté esthétique, avec les lumières qui semblent se prolonger à l'infini. C'est vraiment impressionnant et captivant. Le tunnel, en particulier, m'a attiré immédiatement, car il crée une atmosphère immersive et visuellement stimulante. C'est ce mélange entre science et art qui m'a beaucoup inspiré, et j'ai trouvé que cet aspect visuel ajoutait une dimension magique à l'exposition. J'ai aussi aimée la table du Banquet, j'ai trouvée l'immersion magnifique.
+
 
 
