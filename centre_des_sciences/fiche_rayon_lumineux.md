@@ -40,5 +40,5 @@ Le musée doit fournir une **alimentation électrique** adéquate pour alimenter
 
 ## L'utilisation
 
-[utilisateur](https://github.com/Cyrine44/H25_V11_inspiration_GHIAT/raw/branch/centre_des_sciences/photo_référence/video.mp4)
+
 
