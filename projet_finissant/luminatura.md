@@ -31,5 +31,11 @@ matériels utilisés
   <img src="./photo_référence/luminatura/shéma_luminatura.png" alt="luminatura" />
 </div>
 
+<div align="center">
+  <img src="./photo_référence/luminatura/luminatura_shéma_02.png" alt="luminatura" />
+</div>
 
+<div align="center">
+  <img src="./photo_référence/luminatura/luminatura_shéma_03.png" alt="luminatura" />
+</div>
 
