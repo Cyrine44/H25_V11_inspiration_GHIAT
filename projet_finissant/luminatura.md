@@ -26,6 +26,8 @@ Un mélange de logiciels et de matériel interactif est instaurés, notamment Pu
 </div>
 matériels utilisés
 
+Le projet nécessite plusieurs équipements spécialisés pour assurer le traitement et la diffusion des médias riches. Parmi ces équipements, on trouve des stations de travail multimédia et des ordinateurs (PC et portables) avec GPU dédié, ainsi que des microcontrôleurs comme l’Arduino et l’ESP32 (M5Stack Atom) pour des tâches de calcul en temps réel. Pour la diffusion vidéo, deux projecteurs haute résolution sont utilisés, accompagnés de haut-parleurs actifs et de cartes de son multi-canaux pour l’audio. Enfin, des systèmes d’éclairage DMX et des LEDs adressables permettent de créer des environnements lumineux dynamiques et immersifs.
+
 ## Shémas
 <div align="center">
   <img src="./photo_référence/luminatura/shéma_luminatura.png" alt="luminatura" />
@@ -38,4 +40,7 @@ matériels utilisés
 <div align="center">
   <img src="./photo_référence/luminatura/luminatura_shéma_03.png" alt="luminatura" />
 </div>
+
+## Expérience utilisateur
+#### Avant l’expérience, le spectateur est intrigué et curieux devant cette installation mystérieuse. Après l’interaction, il repart émerveillé, ayant vécu une expérience immersive où lumière et son répondent à ses gestes.
 
