@@ -104,16 +104,16 @@ photo prise par moi.
 
 ### shémas
  <div align="center">
-  <img src="./photo_référence/fuga/fuga_.png" alt="etheria" />
+  <img src="./photo_référence/fuga/fuga-face.png" alt="fuga" />
 </div>
 <div align="center">
-  <img src="./photo_référence/fuga/fuga_.png" alt="etheria" />
+  <img src="./photo_référence/fuga/fuga_plantation-side.png" alt="fuga" />
 </div>
 <div align="center">
-  <img src="./photo_référence/fuga/fuga_.png" alt="etheria" />
+  <img src="./photo_référence/fuga/fuga_plantation-sky.png" alt="fuga" />
 </div>
 
 shémas réalisées par l'équipe d'Etheria.
 
 ### ressenti
-Etheria m’a plongé dans un univers fantastique où chaque mouvement comptait. Le jeu de stratégie, tout en étant simple à comprendre, demandait une véritable réflexion. J’ai adoré l’aspect coopératif avec les autres joueurs. Le pixel art apportait une touche nostalgique, et le fait de défendre le cristal contre des vagues d’ennemis m’a vraiment tenu en haleine. Une expérience de jeu amusante et stimulante.
+Avec Fuga, j’ai eu l’impression de créer mon propre monde. Manipuler les curseurs pour modeler un arbre et voir l’impact sur l’ambiance sonore était fascinant. 
