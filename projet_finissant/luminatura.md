@@ -5,6 +5,11 @@
 
 #### Luminatura est une installation immersive conçue par Camilia Bouatmani, Audrey Dandurand, Ihab Mouhajer, Prethiah Rajaratnam et Justine Rousseau présentée au Cégep Montmorency. Elle est une installation temporaire qui offre aux visiteurs une expérience sensorielle unique. À la croisée de l’art et de la technologie, cette œuvre interactive explore comment la lumière peut influencer l’engagement du spectateur. En permettant à chacun de participer, elle crée une relation directe entre l'œuvre et ceux qui l'explorent, rendant l'expérience à la fois personnelle et immersive.
 
+<div align="center">
+  <img src="./photo_référence/luminatura/luminatura_carte.jpg" alt="luminatura" />
+</div>
+description de l'oeuvre, photo prise par moi.
+
 <div style="display: flex; justify-content: space-around;" >
   <img src="./photo_référence/luminatura/luminatura_rose.jpg" alt="luminatura" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_référence/luminatura/luminatura_bleu.jpg" alt="luminatura" style="width: 30%; margin-right: 10px;" />
@@ -46,4 +51,12 @@ shéma conçue par moi.
 #### Avant l’expérience, le spectateur est intrigué et curieux devant cette installation mystérieuse. Après l’interaction, il repart émerveillé, ayant vécu une expérience immersive où lumière et son répondent à ses gestes.
 
 [vidéo utilisateur YouTube Short](https://youtube.com/shorts/T1O86cZ9BfU?si=-Znbrktvf9UuwsY2)
+
+## Conclusion
+J’ai choisi Luminatura comme mon projet préféré, car je l’ai trouvé émerveillant et magnifique. Son aspect interactif est vraiment impressionnant et apporte une dimension ludique et immersive. L’interaction avec la lumière et les couleurs rend l’expérience unique et engageante, ce qui en fait, selon moi, l’un des projets les plus captivants de l’exposition.
+
+<div align="center">
+  <img src="./photo_référence/luminatura/luminatura_rose.jpg" alt="luminatura" />
+</div>
+
 
