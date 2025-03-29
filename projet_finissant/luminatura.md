@@ -10,7 +10,7 @@
   <img src="./photo_référence/luminatura/luminatura_bleu.jpg" alt="luminatura" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_référence/luminatura/luminatura_blanc.jpg" alt="luminatura" style="width: 30%;" />
 </div>
-Les différentes couleurs de l'instalation
+Les différentes couleurs de l'instalation, photos prises par moi.
 
 ## Description
 #### Luminatura est une fusion entre art et technologie qui transporte les visiteurs dans un univers sensoriel unique. Des fleurs lumineuses, des vignes suspendues et des lanternes délicates créent un décor enchanteur. L’interaction avec des plaques métalliques, semblables à des pupitres de chef d’orchestre, déclenche des jeux de lumière colorés et des sons inspirés de la nature, projetant des motifs lumineux sur les murs.
@@ -24,14 +24,15 @@ Un mélange de logiciels et de matériel interactif est instaurés, notamment Pu
   <img src="./photo_référence/luminatura/luminatura_bts.jpg" alt="luminatura" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_référence/luminatura/luminatura_haut-parleur.jpg" alt="luminatura" style="width: 30%;" />
 </div>
-matériels utilisés
+matériels utilisés, photo prise par moi.
 
-Le projet nécessite plusieurs équipements spécialisés pour assurer le traitement et la diffusion des médias riches. Parmi ces équipements, on trouve des stations de travail multimédia et des ordinateurs (PC et portables) avec GPU dédié, ainsi que des microcontrôleurs comme l’Arduino et l’ESP32 (M5Stack Atom) pour des tâches de calcul en temps réel. Pour la diffusion vidéo, deux projecteurs haute résolution sont utilisés, accompagnés de haut-parleurs actifs et de cartes de son multi-canaux pour l’audio. Enfin, des systèmes d’éclairage DMX et des LEDs adressables permettent de créer des environnements lumineux dynamiques et immersifs.
+##### Le projet nécessite plusieurs équipements spécialisés pour assurer le traitement et la diffusion des médias riches. Parmi ces équipements, on trouve des stations de travail multimédia et des ordinateurs (PC et portables) avec GPU dédié, ainsi que des microcontrôleurs comme l’Arduino et l’ESP32 (M5Stack Atom) pour des tâches de calcul en temps réel. Pour la diffusion vidéo, deux projecteurs haute résolution sont utilisés, accompagnés de haut-parleurs actifs et de cartes de son multi-canaux pour l’audio. Enfin, des systèmes d’éclairage DMX et des LEDs adressables permettent de créer des environnements lumineux dynamiques et immersifs.
 
 ## Shémas
 <div align="center">
   <img src="./photo_référence/luminatura/shéma_luminatura.png" alt="luminatura" />
 </div>
+shéma conçue par moi.
 
 <div align="center">
   <img src="./photo_référence/luminatura/luminatura_shéma_02.png" alt="luminatura" />
@@ -43,4 +44,6 @@ Le projet nécessite plusieurs équipements spécialisés pour assurer le traite
 
 ## Expérience utilisateur
 #### Avant l’expérience, le spectateur est intrigué et curieux devant cette installation mystérieuse. Après l’interaction, il repart émerveillé, ayant vécu une expérience immersive où lumière et son répondent à ses gestes.
+
+[vidéo utilisateur YouTube Short](https://youtube.com/shorts/T1O86cZ9BfU?si=-Znbrktvf9UuwsY2)
 
