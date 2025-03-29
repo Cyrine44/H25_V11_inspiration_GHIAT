@@ -57,23 +57,63 @@ shémas réalisées par l'équipe d'Etheria.
 Etheria m’a plongé dans un univers fantastique où chaque mouvement comptait. Le jeu de stratégie, tout en étant simple à comprendre, demandait une véritable réflexion. J’ai adoré l’aspect coopératif avec les autres joueurs. Le pixel art apportait une touche nostalgique, et le fait de défendre le cristal contre des vagues d’ennemis m’a vraiment tenu en haleine. Une expérience de jeu amusante et stimulante.
 
 ## Prismatica
-Etheria est une installation interactive conçue par Maik Hamel, Victor Gileau, Pierre-Luc Proulx, Joshua Gonzalez-Barrera et Michael Un Dupré.  
+Prismatica est un projet réalisé par Vincent Deliste, IKrame Rata et Jérémy Duverseau.   
 
-Ce projet propose un jeu interactif se déroulant dans un univers fantastique, avec un style graphique inspiré du pixel art. Les joueurs utilisent des figurines ou pions pour défendre un cristal contre des vagues d’ennemis. L’œuvre met en avant la stratégie et la coopération, des éléments clés pour réussir dans cet univers immersif.
+Prismatica explore la chromesthésie, un phénomène où les couleurs et les sons sont associés. Chaque tracé génère des visuels et une correspondance sonore en temps réel, créant ainsi une expérience immersive où les couleurs et les sons interagissent harmonieusement. L'utilisateur est plongé dans un univers sensoriel captivant, où l’art visuel et sonore se fusionnent pour créer une expérience inédite.
 
 <div style="display: flex; justify-content: space-around;" >
-  <img src="./photo_référence/etheria/etheria_table.jpg" alt="etheria" style="width: 30%; margin-right: 10px;" />
-   <img src="./photo_référence/etheria/etheria_table_02.jpg" alt="etheria" style="width: 30%; margin-right: 10px;" />
-  <img src="./photo_référence/etheria/etheria_utilisateur.jpg" alt="etheria"   style="width: 30%;" />
+  <img src="./photo_référence/prismatica/prismatica_tv.jpg" alt="prismatica" style="width: 30%; margin-right: 10px;" />
+   <img src="./photo_référence/prismatica/prismatica_ordi.jpg" alt="prismatica" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_référence/prismatica/prismatica_écrant.jpg" alt="prismatica"   style="width: 30%;" />
 </div>
 photo prise par moi.
 
 ### shémas
  <div align="center">
-  <img src="./photo_référence/etheria/plantationetheria.jpg" alt="etheria" />
+  <img src="./photo_référence/prismatica/prismatica_plantation-1.jpg" alt="prismatica" />
+</div>
+<div align="center">
+  <img src="./photo_référence/prismatica/prismatica_plan1.jpg" alt="prismatica" />
+</div>
+<div align="center">
+  <img src="./photo_référence/prismatica/prismatica_plan2.jpg" alt="prismatica" />
+</div>
+<div align="center">
+  <img src="./photo_référence/prismatica/prismatica_plan3.jpg" alt="prismatica" />
+</div>
+<div align="center">
+  <img src="./photo_référence/prismatica/prismatica_plan4.jpg" alt="prismatica" />
+</div>
+
+shémas réalisées par l'équipe de Prismatica.
+
+### ressenti
+Prismatica m’a émerveillé dès que j’ai vu comment les couleurs et les sons se synchronisaient en temps réel. Le fait que chaque tracé génère une réaction visuelle et sonore était très intéressant. J'ai adoré l'harmonie entre les deux sensations.
+
+## Fuga
+Un projet réalisé par Djeral Abdel Ali, Gucluer Yavuz-Selim, Labelle Matis, Dezemma Daniel Sébastien et Khadka Tristan.   
+
+Fuga propose une expérience immersive où les participants peuvent modeler des arbres à leur image en ajustant des curseurs contrôlant diverses caractéristiques de l’arbre. Chaque modification a un impact direct sur l’ambiance sonore, créant ainsi une atmosphère unique et harmonieuse. Cette interaction entre visuel et son permet aux utilisateurs de créer leur propre environnement naturel.
+
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_référence/fuga/fuga_écrant.jpg" alt="fuga" style="width: 30%; margin-right: 10px;" />
+   <img src="./photo_référence/fuga/fugu_arbre_écrant.jpg" alt="fuga" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_référence/fuga/fugu_écrants.jpg" alt="fuga"   style="width: 30%;" />
+</div>
+photo prise par moi.
+
+### shémas
+ <div align="center">
+  <img src="./photo_référence/fuga/fuga_.png" alt="etheria" />
+</div>
+<div align="center">
+  <img src="./photo_référence/fuga/fuga_.png" alt="etheria" />
+</div>
+<div align="center">
+  <img src="./photo_référence/fuga/fuga_.png" alt="etheria" />
 </div>
 
 shémas réalisées par l'équipe d'Etheria.
 
 ### ressenti
-Prismatica m’a émerveillé dès que j’ai vu comment les couleurs et les sons se synchronisaient en temps réel. Le fait que chaque tracé génère une réaction visuelle et sonore était très intéressant. J'ai adoré l'harmonie entre les deux sensations.
+Etheria m’a plongé dans un univers fantastique où chaque mouvement comptait. Le jeu de stratégie, tout en étant simple à comprendre, demandait une véritable réflexion. J’ai adoré l’aspect coopératif avec les autres joueurs. Le pixel art apportait une touche nostalgique, et le fait de défendre le cristal contre des vagues d’ennemis m’a vraiment tenu en haleine. Une expérience de jeu amusante et stimulante.
