@@ -48,10 +48,32 @@ photo prise par moi.
 
 ### shémas
  <div align="center">
-  <img src="./photo_référence/internature/plantation_connecteur_internature.jpg" alt="luminatura" />
+  <img src="./photo_référence/etheria/plantationetheria.jpg" alt="etheria" />
 </div>
 
-shémas réalisées par l'équipe d'internature.
+shémas réalisées par l'équipe d'Etheria.
 
 ### ressenti
-Internature propose une immersion dans un univers où la nature et la technologie se rencontrent. J’ai trouvé intéressant la manière dont ils ont intégré des éléments naturels avec des interactions numériques. Avant de l’expérimenter, je m’attendais à une ambiance apaisante et immersive, et après coup, j’ai trouvé que l’installation réussissait bien à transmettre cette atmosphère harmonieuse
+Etheria m’a plongé dans un univers fantastique où chaque mouvement comptait. Le jeu de stratégie, tout en étant simple à comprendre, demandait une véritable réflexion. J’ai adoré l’aspect coopératif avec les autres joueurs. Le pixel art apportait une touche nostalgique, et le fait de défendre le cristal contre des vagues d’ennemis m’a vraiment tenu en haleine. Une expérience de jeu amusante et stimulante.
+
+## Prismatica
+Etheria est une installation interactive conçue par Maik Hamel, Victor Gileau, Pierre-Luc Proulx, Joshua Gonzalez-Barrera et Michael Un Dupré.  
+
+Ce projet propose un jeu interactif se déroulant dans un univers fantastique, avec un style graphique inspiré du pixel art. Les joueurs utilisent des figurines ou pions pour défendre un cristal contre des vagues d’ennemis. L’œuvre met en avant la stratégie et la coopération, des éléments clés pour réussir dans cet univers immersif.
+
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_référence/etheria/etheria_table.jpg" alt="etheria" style="width: 30%; margin-right: 10px;" />
+   <img src="./photo_référence/etheria/etheria_table_02.jpg" alt="etheria" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_référence/etheria/etheria_utilisateur.jpg" alt="etheria"   style="width: 30%;" />
+</div>
+photo prise par moi.
+
+### shémas
+ <div align="center">
+  <img src="./photo_référence/etheria/plantationetheria.jpg" alt="etheria" />
+</div>
+
+shémas réalisées par l'équipe d'Etheria.
+
+### ressenti
+Prismatica m’a émerveillé dès que j’ai vu comment les couleurs et les sons se synchronisaient en temps réel. Le fait que chaque tracé génère une réaction visuelle et sonore était très intéressant. J'ai adoré l'harmonie entre les deux sensations.
