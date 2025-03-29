@@ -11,3 +11,47 @@ Ce projet prend la forme d’un tunnel immersif intégrant du mapping vidéo int
   <img src="./photo_référence/internature/internature_entrée.jpg" alt="internature" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_référence/internature/internature_rose.jpg" alt="internature" style="width: 30%;" />
 </div>
+photo prise par moi.
+
+### shémas
+ <div align="center">
+  <img src="./photo_référence/internature/plantation_connecteur_internature.jpg" alt="luminatura" />
+</div>
+<div align="center">
+  <img src="./photo_référence/internature/plantation_studio_internature.jpg" alt="luminatura" />
+</div>
+<div align="center">
+  <img src="./photo_référence/internature/plantation_serre_3d_internature.jpg" alt="luminatura" />
+</div>
+<div align="center">
+  <img src="./photo_référence/internature/plantation_serre_haut_internature.jpg" alt="luminatura" />
+</div>
+<div align="center">
+  <img src="./photo_référence/internature/plantation_sphere_internature.jpg" alt="luminatura" />
+</div>
+shémas réalisées par l'équipe d'internature.
+
+### ressenti
+Internature propose une immersion dans un univers où la nature et la technologie se rencontrent. J’ai trouvé intéressant la manière dont ils ont intégré des éléments naturels avec des interactions numériques. Avant de l’expérimenter, je m’attendais à une ambiance apaisante et immersive, et après coup, j’ai trouvé que l’installation réussissait bien à transmettre cette atmosphère harmonieuse
+
+## Etheria
+Etheria est une installation interactive conçue par Maik Hamel, Victor Gileau, Pierre-Luc Proulx, Joshua Gonzalez-Barrera et Michael Un Dupré.  
+
+Ce projet propose un jeu interactif se déroulant dans un univers fantastique, avec un style graphique inspiré du pixel art. Les joueurs utilisent des figurines ou pions pour défendre un cristal contre des vagues d’ennemis. L’œuvre met en avant la stratégie et la coopération, des éléments clés pour réussir dans cet univers immersif.
+
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_référence/etheria/etheria_table.jpg" alt="etheria" style="width: 30%; margin-right: 10px;" />
+   <img src="./photo_référence/etheria/etheria_table_02.jpg" alt="etheria" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_référence/etheria/etheria_utilisateur.jpg" alt="etheria"   style="width: 30%;" />
+</div>
+photo prise par moi.
+
+### shémas
+ <div align="center">
+  <img src="./photo_référence/internature/plantation_connecteur_internature.jpg" alt="luminatura" />
+</div>
+
+shémas réalisées par l'équipe d'internature.
+
+### ressenti
+Internature propose une immersion dans un univers où la nature et la technologie se rencontrent. J’ai trouvé intéressant la manière dont ils ont intégré des éléments naturels avec des interactions numériques. Avant de l’expérimenter, je m’attendais à une ambiance apaisante et immersive, et après coup, j’ai trouvé que l’installation réussissait bien à transmettre cette atmosphère harmonieuse
