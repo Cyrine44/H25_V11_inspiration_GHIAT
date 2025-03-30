@@ -154,10 +154,39 @@ photo prise par moi.
 
 ### shémas
  <div align="center">
-  <img src="./photo_référence/arcadia/arcadia_implantation.png" alt="arcadia" />
+  <img src="./photo_référence/con-du8/con-du8_plantation.webp" alt="con-du8" />
 </div>
-
 shémas réalisées par l'équipe d'Arcadia.
 
 ### ressenti
-Je suis pas une fan de jeu d'arcade, mais je dois reconnaître le travail monstrueux derriere cette installation.
+Je n'ai pas eu la chance d'essayer cette installation, mais elle n'est pas du tout mauvaise. Le travail derrière est fou et incroyable.
+
+## Analyse complémentaire
+###  cours du programme 
+Plusieurs cours du programme Intégration Multimédia sont essentiels pour concevoir et réaliser des projets comme ceux présentés dans Résonance. Voici trois cours qui me semblent particulièrement incontournables :
+
+#### 1 - Expérience multimédia
+Ce cours est directement lié à la création des installations de l'exposition Résonance. Il permet aux étudiants de concevoir et de produire des expériences interactives en appliquant toutes les compétences acquises durant leur formation.
+
+#### 2 - Conception d'une expérience multimédia
+Ce cours est essentiel pour comprendre comment structurer une expérience immersive et interactive, en tenant compte des aspects techniques, artistiques et ergonomiques.
+
+#### 3 - Programmation interactive / web
+Plusieurs projets, comme Internature ou Con-DU8, nécessitent de la programmation et du codage pour gérer les interactions. Ces cours permets d'apprendre les bases du codage pour développer des interfaces interactives et réactives.
+
+### Technologie inconnue et explication
+Une des technologies utilisées dans ces projets et que je ne connaissais pas est le mapping vidéo interactif, présent dans Internature.
+
+#### Qu'est-ce que le mapping vidéo interactif ?
+Le mapping vidéo est une technique qui consiste à projeter des images ou des animations sur des surfaces physiques (murs, objets, structures) pour transformer leur apparence. Lorsqu'il devient interactif, il réagit aux mouvements ou aux actions des utilisateurs grâce à des capteurs, des caméras ou d’autres systèmes de détection.
+
+#### Comment ça fonctionne ?
+Un logiciel de mapping vidéo comme TouchDesigner, MadMapper ou Resolume Arena est utilisé pour ajuster les projections aux formes et aux mouvements des surfaces.
+Des capteurs (Kinect, caméras infrarouges, LiDAR) captent les mouvements des utilisateurs et envoient des données au logiciel.
+Le système adapte ensuite la projection en temps réel pour que les effets visuels réagissent aux interactions des visiteurs.
+
+#### Pourquoi c'est intéressant ?
+Le mapping interactif permet de créer des environnements immersifs où l’utilisateur devient un acteur de l’expérience. Dans Internature, cette technologie renforce l'effet d'immersion en modifiant le visuel du tunnel en fonction des actions du participant, rendant chaque passage unique.
+
+## Conclusion
+L'exposition Résonance est une belle démonstration du talent et de la créativité des finissants en Intégration Multimédia. Chaque projet raconte une histoire à sa manière, nous plongeant dans des expériences interactives surprenantes et immersives. En explorant ces installations, on réalise à quel point la maîtrise de la programmation, du design et de la conception multimédia est essentielle pour donner vie à ces univers. Cette documentation m’a permis de mieux comprendre tout le travail derrière ces œuvres et d’apprécier encore plus l’ingéniosité des créateurs.
