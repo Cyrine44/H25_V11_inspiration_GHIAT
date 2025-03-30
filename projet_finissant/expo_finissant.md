@@ -132,16 +132,32 @@ photo prise par moi.
 
 ### shémas
  <div align="center">
-  <img src="./photo_référence/fuga/fuga-face.png" alt="fuga" />
-</div>
-<div align="center">
-  <img src="./photo_référence/fuga/fuga_plantation-side.png" alt="fuga" />
-</div>
-<div align="center">
-  <img src="./photo_référence/fuga/fuga_plantation-sky.png" alt="fuga" />
+  <img src="./photo_référence/arcadia/arcadia_implantation.png" alt="arcadia" />
 </div>
 
-shémas réalisées par l'équipe d'Etheria.
+shémas réalisées par l'équipe d'Arcadia.
 
 ### ressenti
-Avec Fuga, j’ai eu l’impression de créer mon propre monde. Manipuler les curseurs pour modeler un arbre et voir l’impact sur l’ambiance sonore était fascinant. 
+Je suis pas une fan de jeu d'arcade, mais je dois reconnaître le travail monstrueux derriere cette installation.
+
+## CON-DU8
+CON-DU8 est un projet réalisé par Alexandre Gervais, Ian Corbin, Jérémy Roy-Coté, Keven Malric et Samuel Desmeules-Voyer.
+
+Con-Du8 propose un jeu d’arcade où le joueur incarne un motard défunt pédalant sur un vélo stationnaire à travers un purgatoire virtuel. Il contrôle sa vitesse et sa direction tout au long du jeu. L’objectif est d’encourager l’utilisateur à améliorer sa condition physique en l’immergeant dans une course effrénée remplie de défis. Ce projet allie performance physique et expérience interactive de manière ludique.
+
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_référence/con-du8/con-du8_prototype.jpg" alt="con-du8" style="width: 30%; margin-right: 10px;" />
+   <img src="./photo_référence/con-du8/con-du8.jpg" alt="con-du8" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_référence/con-du8/con-du8_ordi.jpg" alt="con-du8"   style="width: 30%;" />
+</div>
+photo prise par moi.
+
+### shémas
+ <div align="center">
+  <img src="./photo_référence/arcadia/arcadia_implantation.png" alt="arcadia" />
+</div>
+
+shémas réalisées par l'équipe d'Arcadia.
+
+### ressenti
+Je suis pas une fan de jeu d'arcade, mais je dois reconnaître le travail monstrueux derriere cette installation.
