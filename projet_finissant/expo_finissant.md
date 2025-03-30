@@ -117,3 +117,31 @@ shémas réalisées par l'équipe d'Etheria.
 
 ### ressenti
 Avec Fuga, j’ai eu l’impression de créer mon propre monde. Manipuler les curseurs pour modeler un arbre et voir l’impact sur l’ambiance sonore était fascinant. 
+
+## Arcadia
+Arcadia est une installation créée par Dominic Yale, Anton Nikulin et William Beauvais. Comme les autres projets, elle est temporaire et finale.
+
+Arcadia repose sur la création d’une borne d’arcade complète et d’un jeu de plateforme conçu spécifiquement pour cette borne. Le projet vise à offrir aux utilisateurs une expérience de jeu interactive, tout en réintégrant l’esthétique vintage des anciennes bornes d’arcade. Les joueurs peuvent revivre l’expérience des jeux classiques tout en explorant des mécaniques modernes dans un cadre rétro.
+
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_référence/arcadia/arcadia_jeu.jpg" alt="arcadia" style="width: 30%; margin-right: 10px;" />
+   <img src="./photo_référence/arcadia/arcadia_écrant.jpg" alt="arcadia" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_référence/arcadia/arcadia_bts.jpg" alt="arcadia"   style="width: 30%;" />
+</div>
+photo prise par moi.
+
+### shémas
+ <div align="center">
+  <img src="./photo_référence/fuga/fuga-face.png" alt="fuga" />
+</div>
+<div align="center">
+  <img src="./photo_référence/fuga/fuga_plantation-side.png" alt="fuga" />
+</div>
+<div align="center">
+  <img src="./photo_référence/fuga/fuga_plantation-sky.png" alt="fuga" />
+</div>
+
+shémas réalisées par l'équipe d'Etheria.
+
+### ressenti
+Avec Fuga, j’ai eu l’impression de créer mon propre monde. Manipuler les curseurs pour modeler un arbre et voir l’impact sur l’ambiance sonore était fascinant. 
