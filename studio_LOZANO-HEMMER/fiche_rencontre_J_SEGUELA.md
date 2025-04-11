@@ -6,9 +6,9 @@ Plusieurs idées clés ont été abordées. D’abord, Séguéla a insisté sur 
 
 
 <div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_référence/sphere_packing_bach_monterrey_2019_my_505A7637.jpg" alt="sphere" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_référence/sphere_packing_bach_montreal_2018_glh_016.jpg" alt="sphere" style="width: 30%; margin-right: 10px;" />
-  <img src="./photo_référence/luminatura/luminatura_bleu.jpg" alt="luminatura" style="width: 30%; margin-right: 10px;" />
-  <img src="./photo_référence/luminatura/luminatura_blanc.jpg" alt="luminatura" style="width: 30%;" />
+  <img src="./photo_référence/sphere_packing_bach_montreal_2018_RLH_160.jpg" alt="luminatura" style="width: 30%;" />
 </div>
 <p><em>Source : www.lozano-hemmer.com Rafael Lozano-Hemmer, "Sphere Packing: Bach", 2018</em></p>
 
