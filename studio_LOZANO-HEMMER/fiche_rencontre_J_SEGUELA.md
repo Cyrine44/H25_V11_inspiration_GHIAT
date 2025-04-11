@@ -10,7 +10,8 @@ Plusieurs idées clés ont été abordées. D’abord, Séguéla a insisté sur 
   <img src="./photo_référence/sphere_packing_bach_monterrey_2019_my_505A7630.jpg" alt="sphere" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_référence/sphere_packing_bach_montreal_2018_RLH_160.jpg" alt="luminatura" style="width: 30%;" />
 </div>
-<p><em>Source : www.lozano-hemmer.com Rafael Lozano-Hemmer, "Sphere Packing: Bach", 2018</em></p>
+<p><em> Rafael Lozano-Hemmer, "Sphere Packing: Bach", 2018</em></p>
+<p><em> Source : www.lozano-hemmer.com</em></p>
 
 ## Conclusion
 Cette présentation s’est révélée très instructive, car elle a permis de comprendre l’envers du décor de la création d’art numérique à grande échelle. La description détaillée des processus, de la conception à la conservation, a mis en lumière la complexité technique et logistique souvent invisible au spectateur. L’accent mis sur la collaboration et la professionnalisation du studio, avec des rôles spécialisés comme celui de registraire, offre une perspective nouvelle et enrichissante sur le monde de l’art contemporain numérique.
