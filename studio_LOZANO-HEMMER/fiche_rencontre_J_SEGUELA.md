@@ -4,7 +4,10 @@
 
 Plusieurs idées clés ont été abordées. D’abord, Séguéla a insisté sur l’importance d’une équipe multidisciplinaire dans la création des œuvres, incluant des chercheurs en algorithmes, des programmeurs (en JavaScript, C++) et une équipe de production chargée de la logistique et de la fabrication physique des installations. Ensuite, elle a souligné l’approche unique du studio en matière de conservation et de gestion, adoptant un fonctionnement quasi-muséal, notamment avec la création du poste de registraire et la mise en place de bases de données détaillées pour assurer le suivi des œuvres. La conférence a aussi exposé le parcours laborieux d’une œuvre, depuis sa conceptualisation par Lozano-Hemmer jusqu’à son exposition, en passant par la planification, la production, le transport, l’installation (comme pour l’œuvre Sphere Packing Back) et la gestion d’aspects techniques complexes comme le câblage ou la projection (illustré par le projet Rotisserie). Enfin, Séguéla a présenté la notion d’interactivité au cœur de nombreuses œuvres, en distinguant l’interactivité passive (réaction à la présence) de l’interactivité active (action nécessaire du visiteur).
 
-
+<div align="center">
+  <img src="./photo_référence/sphere_packing_bach_montreal_2018_glh_016.jpg" alt="sphere" />
+</div>
+<p><em>Source : www.lozano-hemmer.com Rafael Lozano-Hemmer, "Sphere Packing: Bach", 2018</em></p>
 
 ## Conclusion
 Cette présentation s’est révélée très instructive, car elle a permis de comprendre l’envers du décor de la création d’art numérique à grande échelle. La description détaillée des processus, de la conception à la conservation, a mis en lumière la complexité technique et logistique souvent invisible au spectateur. L’accent mis sur la collaboration et la professionnalisation du studio, avec des rôles spécialisés comme celui de registraire, offre une perspective nouvelle et enrichissante sur le monde de l’art contemporain numérique.
