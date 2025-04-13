@@ -1,12 +1,13 @@
 # Destionation: L'espace
 
-Au cœur du Cosmodôme de Laval, l’exposition *Destination : l’espace* invite les visiteurs à explorer l’histoire et l’avenir de l’exploration spatiale. À travers un parcours immersif et interactif, elle présente les grandes étapes des missions spatiales, des premières conquêtes lunaires jusqu’aux technologies de pointe comme le télescope spatial James Webb.
-Des maquettes de fusées emblématiques, des stations d’expérimentation et des projections audiovisuelles permettent aux visiteurs de s’immerger dans les découvertes, les défis techniques, et les rêves scientifiques qui alimentent la conquête de l’espace. Pensée à la fois pour les passionné·e·s et le grand public, cette exposition rend accessibles des concepts complexes grâce à des dispositifs variés et captivants.
-C’est dans ce contexte que j’ai réalisé ma visite individuelle, au cours de laquelle j’ai pu découvrir une œuvre immersive particulièrement marquante.
+#### Au cœur du Cosmodôme de Laval, l’exposition Destination : l’espace, réalisée en décembre 2024, propose aux visiteurs de plonger dans l’histoire et le futur de l’exploration spatiale. Grâce à un parcours immersif et interactif, on découvre les grandes étapes des missions spatiales, des premières conquêtes lunaires jusqu’aux technologies modernes comme le télescope spatial James Webb. Des maquettes de fusées, des stations d’expérimentation, des modules interactifs et des projections visuelles rendent l’expérience à la fois éducative et captivante.
+
+Le Cosmodôme est un musée scientifique spécialisé dans l’exploration de l’espace. Il rend les sciences accessibles au grand public à travers des installations variées et bien pensées. C’est dans ce cadre que j’ai fait ma visite individuelle le 21 février 2025, où j’ai eu l’occasion de découvrir une œuvre immersive qui m’a particulièrement marquée.
 
 
-## 🎨 Titre de l’œuvre ou du dispositif
-**Au-delà des étoiles / Beyond the Stars**
+
+## Au-delà des étoiles
+
 
 ## 👤 Artiste(s) / Créateur·trice·s
 - **Réalisation** : Alexandre Desjardins  
