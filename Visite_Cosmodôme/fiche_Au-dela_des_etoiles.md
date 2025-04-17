@@ -4,6 +4,11 @@
 
 Le Cosmodôme à Laval est un musée scientifique spécialisé dans l’exploration de l’espace. Il rend les sciences accessibles au grand public à travers des installations variées et bien pensées. C’est dans ce cadre que j’ai effectué ma visite individuelle le 21 février 2025, où j’ai eu l’occasion de découvrir une œuvre immersive très intéressante et intuitive.
 
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_reference/(luminatura_rose.jpg)" alt="cosmodome" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/(luminatura_bleu.jpg)" alt="cosmodome" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/(luminatura_blanc.jpg)" alt="cosmodome" style="width: 30%;" />
+</div>
 
 ## Au-delà des étoiles
 #### "Au-delà des étoiles" est une projection immersive créée par l'entreprise 4 ELEMENTS, réalisée par Alexandre Desjardins en décembre 2024. Cette œuvre permanente et immersive offre une expérience multimédia de 6 minutes qui combine des images de synthèse, des effets visuels, une narration scientifique et une musique originale. Elle retrace les grandes étapes de l'exploration spatiale, tout en mettant en lumière les instruments développés par l'humanité pour observer l'univers. Le spectateur est invité à voyager au cœur des galaxies à travers un récit captivant et accessible, alliant esthétique cosmique et narration pédagogique. Ce dispositif crée ainsi une expérience à la fois contemplative et éducative, plongeant l'audience dans un univers fascinant et enrichissant.
