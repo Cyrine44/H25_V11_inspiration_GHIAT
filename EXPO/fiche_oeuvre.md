@@ -8,20 +8,8 @@ Le Cosmodôme est un musée scientifique spécialisé dans l’exploration de l�
 
 ## Au-delà des étoiles
 
-
 ## 👤 Artiste(s) / Créateur·trice·s
 - **Réalisation** : Alexandre Desjardins  
-- **Concept** : Alexandre Desjardins, Emilie Prévost  
-- **Scénario et vulgarisation scientifique** : Pierre Chastenay  
-- **Conseillers scientifiques** : Marie-Michèle Limoges, Robert Lamontagne  
-- **Musique originale** : Jean-Sébastien Côté  
-- **Recherche visuelle** : Charlotte Wasser, Aline Archidec  
-- **Montage** : Aline Archidec  
-- **VFX** : Aline Archidec, François Guinaudeau, Alexandre Lemoine  
-- **Narration** : Juliette Diodati  
-- **Studio d’enregistrement** : Syllabes  
-- **Production** : Claude Tousignant  
-- **Direction technologique** : Simon Coulombe  
 
 ## 📅 Année de réalisation
 **2024**
