@@ -1,4 +1,4 @@
-# Destionation: L'espace
+# Destination: L'espace
 
 #### Au cœur du Cosmodôme de Laval, l’exposition Destination : l’espace, réalisée en décembre 2024, propose aux visiteurs de plonger dans l’histoire et le futur de l’exploration spatiale. Grâce à un parcours immersif et interactif, on découvre les grandes étapes des missions spatiales, des premières conquêtes lunaires jusqu’aux technologies modernes comme le télescope spatial James Webb. Des maquettes de fusées, des stations d’expérimentation, des modules interactifs et des projections visuelles rendent l’expérience à la fois éducative et captivante.
 
