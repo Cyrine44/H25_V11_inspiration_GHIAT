@@ -43,9 +43,7 @@ L’écran est immense et l’environnement sonore crée une véritable bulle im
 On se sent tout petit face à l’univers, mais aussi curieux et fasciné.
 
 <a href="https://www.youtube.com/watch?v=E9eEFIE-xdw" target="_blank">vidéo de l'installation</a>
-
-
-lien vidéo
+vidéo filmé par moi
 
 ## Appréciation / critique
 L'œuvre présente plusieurs points forts qui la rendent particulièrement marquante. Tout d'abord, les images sont absolument magnifiques et remarquablement bien réalisées, offrant une représentation saisissante de l'univers. L'ambiance sonore et visuelle est également très immersive, plongeant le spectateur dans un environnement captivant qui stimule à la fois les sens et l'imagination. Enfin, la narration est parfaitement adaptée, rendant l’expérience à la fois accessible et éducative, ce qui permet à chacun, quel que soit son niveau de connaissance en astronomie, de s'approprier le récit et d'enrichir sa compréhension de l'exploration spatiale.
@@ -55,6 +53,7 @@ Cependant, il existe quelques détails que j’aimerais souligner. L’installat
 
 ## Références à d'autres œuvres ou dispositifs
 Cette expérience m’a immédiatement rappelé l’œuvre Ravel Ravel Interval d’Anri Sala, vue au Musée des beaux-arts de Montréal. Dans les deux cas, l’atmosphère sonore et visuelle est d’une telle intensité qu’elle parvient à aspirer le spectateur dans un autre monde. Ce qui est frappant, c'est la manière dont l’ambiance créée par l’image et le son devient presque palpable, à tel point qu’on se sent absorbé par l’environnement. L’installation d'Anri Sala repose sur une synchronisation parfaite entre les visuels et la musique, un effet hypnotique qui capte notre attention de façon immersive. De manière similaire, Au-delà des étoiles utilise cette même alchimie entre la projection visuelle et l’ambiance sonore pour immerger totalement le spectateur, le transportant au cœur de l’univers. Dans les deux œuvres, l’expérience sensorielle va au-delà de la simple observation : elle éveille notre imagination et nous fait vivre une véritable exploration intérieure.
+
 
 ## Conclusion
 Au-delà des étoiles a été une expérience intéressante, qui m’a permis de mieux comprendre comment l’image, le son et la narration peuvent travailler ensemble pour créer une ambiance immersive. Même si ce n’est pas l’œuvre qui m’a le plus marqué cette session, elle reste un bon exemple d’installation éducative et accessible. Elle m’a tout de même fait réfléchir à la manière dont on peut capter l’attention du public en rendant un contenu complexe plus engageant.
