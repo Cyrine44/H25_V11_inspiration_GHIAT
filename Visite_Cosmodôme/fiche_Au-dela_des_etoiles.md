@@ -9,17 +9,41 @@ Le Cosmodôme à Laval est un musée scientifique spécialisé dans l’explorat
   <img src="./photo_reference/expo_02.jfif" alt="cosmodome" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_reference/expo_03.jfif" alt="cosmodome" style="width: 30%;" />
 </div>
+Photos prises par moi
 
 ## Au-delà des étoiles
 #### "Au-delà des étoiles" est une projection immersive créée par l'entreprise 4 ELEMENTS, réalisée par Alexandre Desjardins en décembre 2024. Cette œuvre permanente et immersive offre une expérience multimédia de 6 minutes qui combine des images de synthèse, des effets visuels, une narration scientifique et une musique originale. Elle retrace les grandes étapes de l'exploration spatiale, tout en mettant en lumière les instruments développés par l'humanité pour observer l'univers. Le spectateur est invité à voyager au cœur des galaxies à travers un récit captivant et accessible, alliant esthétique cosmique et narration pédagogique. Ce dispositif crée ainsi une expérience à la fois contemplative et éducative, plongeant l'audience dans un univers fascinant et enrichissant.
 
 L’œuvre dure environ six minutes et propose une narration bilingue en français et en anglais, rendant le contenu accessible à un large public. Elle aborde plusieurs thématiques liées à l’astronomie, notamment l’exploration spatiale, l’histoire des grandes découvertes scientifiques et les instruments développés pour observer l’univers. Le tout s’inscrit dans une approche hybride entre le documentaire immersif et l’art visuel éducatif, où la beauté des images renforce la dimension pédagogique de l’expérience.
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_reference/écrant_03.jpg" alt="oeuvre" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/écrant_04.jpg" alt="oeuvre" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/écrant_05.jpg" alt="oeuvre" style="width: 30%;" />
+</div>
+ Photos prises par moi.
+ 
+## shéma
+<div align="center">
+  <img src="./photo_reference/shéma.png" alt="shéma" />
+</div>
+Shéma fait par moi.
 
+## matériel utilisé
+L’installation utilise un grand écran blanc sur lequel est projeté le film à l’aide d’un projecteur suspendu au plafond. Devant l’écran, un banc équipé de plusieurs casques audio permet aux visiteurs de suivre l’expérience de manière immersive et individuelle. Des lumières LED intégrées à l’arrière du banc ajoutent une ambiance visuelle moderne à l’espace. Même si l’œuvre est placée au cœur du musée, le port du casque crée une forme d’intimité, en isolant le spectateur du bruit ambiant pour le plonger pleinement dans l’univers présenté.
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_reference/écrant_01.jpg" alt="oeuvre" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/projecteur.jpg" alt="projecteur" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/écrant_02.jpg" alt="oeuvre" style="width: 30%;" />
+</div>
+Photo prise par moi.
 
 ## Expérience personnelle
 Je m’assois sur un banc et mets un casque de son sur la tête. Dès les premières secondes, je suis emporté·e par les images grandioses et la richesse sonore du film.
 L’écran est immense et l’environnement sonore crée une véritable bulle immersive. L’histoire, très pédagogique, est facile à suivre tout en stimulant l’imagination.
 On se sent tout petit face à l’univers, mais aussi curieux et fasciné.
+
+<a href="https://www.youtube.com/watch?v=E9eEFIE-xdw" target="_blank">vidéo de l'installation</a>
+
 
 lien vidéo
 
