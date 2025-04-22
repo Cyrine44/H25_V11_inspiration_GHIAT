@@ -57,3 +57,8 @@ Cette expérience m’a immédiatement rappelé l’œuvre Ravel Ravel Interval 
 
 ## Conclusion
 Au-delà des étoiles a été une expérience intéressante, qui m’a permis de mieux comprendre comment l’image, le son et la narration peuvent travailler ensemble pour créer une ambiance immersive. Même si ce n’est pas l’œuvre qui m’a le plus marqué cette session, elle reste un bon exemple d’installation éducative et accessible. Elle m’a tout de même fait réfléchir à la manière dont on peut capter l’attention du public en rendant un contenu complexe plus engageant.
+<div style="display: flex; justify-content: space-around;" >
+  <img src="./photo_reference/écrant_6.jpg" alt="cosmodome" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/moi.jpg" alt="cosmodome" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/tour_controle.jpg" alt="cosmodome" style="width: 30%;" />
+</div>
