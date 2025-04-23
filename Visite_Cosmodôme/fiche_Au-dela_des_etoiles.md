@@ -22,13 +22,13 @@ L’œuvre dure environ six minutes et propose une narration bilingue en frança
 </div>
  Photos prises par moi.
  
-## shéma
+## Schéma
 <div align="center">
-  <img src="./photo_reference/shéma.png" alt="shéma" />
+  <img src="./photo_reference/shéma.png" alt="schéma" />
 </div>
-Shéma fait par moi.
+Schéma fait par moi.
 
-## matériel utilisé
+## Matériel utilisé
 L’installation utilise un grand écran blanc sur lequel est projeté le film à l’aide d’un projecteur suspendu au plafond. Devant l’écran, un banc équipé de plusieurs casques audio permet aux visiteurs de suivre l’expérience de manière immersive et individuelle. Des lumières LED intégrées à l’arrière du banc ajoutent une ambiance visuelle moderne à l’espace. Même si l’œuvre est placée au cœur du musée, le port du casque crée une forme d’intimité, en isolant le spectateur du bruit ambiant pour le plonger pleinement dans l’univers présenté.
 <div style="display: flex; justify-content: space-around;" >
   <img src="./photo_reference/écrant_01.jpg" alt="oeuvre" style="width: 30%; margin-right: 10px;" />
@@ -45,13 +45,14 @@ On se sent tout petit face à l’univers, mais aussi curieux et fasciné.
 <a href="https://www.youtube.com/watch?v=E9eEFIE-xdw" target="_blank">vidéo de l'installation</a>
 vidéo filmé par moi
 
-## Appréciation / critique
+## Appréciation / Critique
 L'œuvre présente plusieurs points forts qui la rendent particulièrement marquante. Tout d'abord, les images sont absolument magnifiques et remarquablement bien réalisées, offrant une représentation saisissante de l'univers. L'ambiance sonore et visuelle est également très immersive, plongeant le spectateur dans un environnement captivant qui stimule à la fois les sens et l'imagination. Enfin, la narration est parfaitement adaptée, rendant l’expérience à la fois accessible et éducative, ce qui permet à chacun, quel que soit son niveau de connaissance en astronomie, de s'approprier le récit et d'enrichir sa compréhension de l'exploration spatiale.
 
 Cependant, il existe quelques détails que j’aimerais souligner. L’installation étant située au milieu du musée, elle perd parfois en immersion, car des visiteurs peuvent passer devant l’écran, ce qui perturbe l’expérience. Pour améliorer cela, je ferais en sorte que l’œuvre soit installée dans un espace plus isolé, offrant une expérience plus intime et centrée, loin des distractions extérieures.
 <div align="center">
   <img src="./photo_reference/expo_02.jfif" alt="expo" />
 </div>
+Photo prise par moi.
 
 ## Références à d'autres œuvres ou dispositifs
 Cette expérience m’a immédiatement rappelé l’œuvre Ravel Ravel Interval d’Anri Sala, vue au Musée des beaux-arts de Montréal. Dans les deux cas, l’atmosphère sonore et visuelle est d’une telle intensité qu’elle parvient à aspirer le spectateur dans un autre monde. Ce qui est frappant, c'est la manière dont l’ambiance créée par l’image et le son devient presque palpable, à tel point qu’on se sent absorbé par l’environnement. L’installation d'Anri Sala repose sur une synchronisation parfaite entre les visuels et la musique, un effet hypnotique qui capte notre attention de façon immersive. De manière similaire, Au-delà des étoiles utilise cette même alchimie entre la projection visuelle et l’ambiance sonore pour immerger totalement le spectateur, le transportant au cœur de l’univers. Dans les deux œuvres, l’expérience sensorielle va au-delà de la simple observation : elle éveille notre imagination et nous fait vivre une véritable exploration intérieure.
@@ -60,6 +61,7 @@ Cette expérience m’a immédiatement rappelé l’œuvre Ravel Ravel Interval 
   <img src="./photo_reference/expo_mbam_03.jpg" alt="mbam" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_reference/expo_mbam_02.jpg" alt="mbam" style="width: 30%;" />
 </div>
+Photos prises par moi.
 
 ## Conclusion
 Au-delà des étoiles a été une expérience intéressante, qui m’a permis de mieux comprendre comment l’image, le son et la narration peuvent travailler ensemble pour créer une ambiance immersive. Même si ce n’est pas l’œuvre qui m’a le plus marqué cette session, elle reste un bon exemple d’installation éducative et accessible. Elle m’a tout de même fait réfléchir à la manière dont on peut capter l’attention du public en rendant un contenu complexe plus engageant.
@@ -68,3 +70,4 @@ Au-delà des étoiles a été une expérience intéressante, qui m’a permis de
   <img src="./photo_reference/moi.jpg" alt="cosmodome" style="width: 30%; margin-right: 10px;" />
   <img src="./photo_reference/tour_controle.jpg" alt="cosmodome" style="width: 30%;" />
 </div>
+Photos prises par moi.
