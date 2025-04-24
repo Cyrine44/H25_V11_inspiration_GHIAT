@@ -1,6 +1,11 @@
 ## Le Musée des beaux-arts de Montréal
 Le Musée des beaux-arts de Montréal est un lieu emblématique de la culture montréalaise, reconnu pour ses collections variées et ses expositions innovantes. Réparti sur plusieurs pavillons, il offre une immersion dans l’art sous toutes ses formes, du classique au contemporain.  
-(photos)
+<div style="display: flex; justify-content: space-around;">
+  <img src="./photo_reference/expo_01.jfif" alt="cosmodome" style="width: 23%; margin-right: 10px;" />
+  <img src="./photo_reference/expo_02.jfif" alt="cosmodome" style="width: 23%; margin-right: 10px;" />
+  <img src="./photo_reference/expo_03.jfif" alt="cosmodome" style="width: 23%; margin-right: 10px;" />
+  <img src="./photo_reference/expo_04.jfif" alt="cosmodome" style="width: 23%;" />
+</div>
 
 # Camp Wakonda – Graeme Patterson
 ### Lors d’une visite au Musée des beaux-arts de Montréal, plus précisément au pavillon Jean-Noël Desmarais – niveau S2, j’ai découvert une installation permanente réalisée en 2013 par l’artiste canadien Graeme Patterson, intitulée *Camp Wakonda*. Cette œuvre est intégrée à l’exposition permanente du musée et présentée dans un espace sombre et isolé, mettant en valeur son atmosphère particulière. La visite a eu lieu le 4 avril 2025, dans le cadre d’une sortie de classe.
