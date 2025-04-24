@@ -6,15 +6,16 @@ Le Musée des beaux-arts de Montréal est un lieu emblématique de la culture mo
   <img src="./photo_reference/entrée_02.jpg" alt="MBAM" style="width: 30%;" />
 </div>
 <div style="display: flex; justify-content: space-around;">
-  <img src="./photo_reference/entrée_01.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
-  <img src="./photo_reference/entrée_03.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
-  <img src="./photo_reference/entrée_02.jpg" alt="MBAM" style="width: 30%;" />
+  <img src="./photo_reference/statues_entrée.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/Anri_Sala.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/escaliers.jpg" alt="MBAM" style="width: 30%;" />
 </div>
 <div style="display: flex; justify-content: space-around;">
-  <img src="./photo_reference/entrée_01.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
-  <img src="./photo_reference/entrée_03.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
-  <img src="./photo_reference/entrée_02.jpg" alt="MBAM" style="width: 30%;" />
+  <img src="./photo_reference/tableau_01.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/moi_tableau_02.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/tableau_03.jpg" alt="MBAM" style="width: 30%;" />
 </div>
+Photos prises par moi.
 
 # Camp Wakonda – Graeme Patterson
 ### Lors d’une visite au Musée des beaux-arts de Montréal, plus précisément au pavillon Jean-Noël Desmarais – niveau S2, j’ai découvert une installation permanente réalisée en 2013 par l’artiste canadien Graeme Patterson, intitulée *Camp Wakonda*. Cette œuvre est intégrée à l’exposition permanente du musée et présentée dans un espace sombre et isolé, mettant en valeur son atmosphère particulière. La visite a eu lieu le 4 avril 2025, dans le cadre d’une sortie de classe.
@@ -34,3 +35,6 @@ Au début, j’ai pensé que l'œuvre était juste une petite maquette intéress
 
 ## Conclusion
 *Camp Wakonda* est une œuvre qui m’a surpris par sa richesse et sa profondeur. Elle montre comment une installation artistique peut mélanger narration, sculpture, son et vidéo pour créer une expérience complète. Cette visite m’a permis de découvrir une autre façon de raconter une histoire à travers l’art, et m’a donné envie d’explorer moi-même des formes plus immersives et détaillées dans mes propres créations.
+<div align="center">
+  <img src="./photo_reference/moi_tableau_01.jpg" alt="moi" />
+</div>
