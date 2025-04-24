@@ -21,6 +21,11 @@ Photos prises par moi.
 ### Lors d’une visite au Musée des beaux-arts de Montréal, plus précisément au pavillon Jean-Noël Desmarais – niveau S2, j’ai découvert une installation permanente réalisée en 2013 par l’artiste canadien Graeme Patterson, intitulée *Camp Wakonda*. Cette œuvre est intégrée à l’exposition permanente du musée et présentée dans un espace sombre et isolé, mettant en valeur son atmosphère particulière. La visite a eu lieu le 4 avril 2025, dans le cadre d’une sortie de classe.
 
 L’œuvre fait partie de la série *Secret Citadel*, dans laquelle Patterson explore des thèmes comme la nostalgie, la perte et la résilience, à travers des scènes inspirées de son vécu personnel. *Camp Wakonda* met en scène des animaux jouant le rôle d’alter ego, dans huit courtes vidéos animées en image par image, qui racontent l’éloignement progressif de deux amis après un accident. L’installation évoque avec sensibilité la transition de l’enfance à l’âge adulte, présentée comme un rite de passage. Ce mélange de maquette physique détaillée, de projections vidéo et de son immersif crée une expérience aussi touchante qu’étrange, où le spectateur devient témoin silencieux d’un récit intime.
+<div style="display: flex; justify-content: space-around;">
+  <img src="./photo_reference/scène_01.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/camp_wakonda_01.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/feu.jpg" alt="MBAM" style="width: 30%;" />
+</div>
 
 ## Dimensions, mise en espace et techniques utilisées
 *Camp Wakonda* mesure environ 195 × 330 × 275 cm et est installée seule dans une grande pièce noire, ce qui met toute l’attention sur l’œuvre. Elle est éclairée de manière ciblée, créant une ambiance intime et immersive.
