@@ -1,10 +1,19 @@
 ## Le Musée des beaux-arts de Montréal
 Le Musée des beaux-arts de Montréal est un lieu emblématique de la culture montréalaise, reconnu pour ses collections variées et ses expositions innovantes. Réparti sur plusieurs pavillons, il offre une immersion dans l’art sous toutes ses formes, du classique au contemporain.  
 <div style="display: flex; justify-content: space-around;">
-  <img src="./photo_reference/expo_01.jfif" alt="cosmodome" style="width: 23%; margin-right: 10px;" />
-  <img src="./photo_reference/expo_02.jfif" alt="cosmodome" style="width: 23%; margin-right: 10px;" />
-  <img src="./photo_reference/expo_03.jfif" alt="cosmodome" style="width: 23%; margin-right: 10px;" />
-  <img src="./photo_reference/expo_04.jfif" alt="cosmodome" style="width: 23%;" />
+  <img src="./photo_reference/entrée_01.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/entrée_03.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/entrée_02.jpg" alt="MBAM" style="width: 30%;" />
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="./photo_reference/entrée_01.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/entrée_03.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/entrée_02.jpg" alt="MBAM" style="width: 30%;" />
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="./photo_reference/entrée_01.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/entrée_03.jpg" alt="MBAM" style="width: 30%; margin-right: 10px;" />
+  <img src="./photo_reference/entrée_02.jpg" alt="MBAM" style="width: 30%;" />
 </div>
 
 # Camp Wakonda – Graeme Patterson
