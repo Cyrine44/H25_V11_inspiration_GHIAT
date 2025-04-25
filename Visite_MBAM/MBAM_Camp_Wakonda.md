@@ -33,6 +33,12 @@ Photos prises par moi.
 
 L’installation combine des matériaux comme le bois torréfié, le balsa, la tôle d’aluminium, ainsi que des modèles réduits peints à la main. Des écrans ACL, projecteurs numériques et animations en stop-motion avec son complètent l’œuvre, mêlant techniques artisanales et technologies pour créer une expérience visuelle et sonore complète.
 
+## Schéma
+<div align="center">
+  <img src="./photo_reference/schéma.png" alt="schéma" />
+</div>
+Schéma fait par moi.
+
 ## Matériel fourni
 Pour mettre en valeur l’installation, le musée a aménagé une salle dédiée, entièrement plongée dans le noir, afin de créer une ambiance immersive. L’œuvre est mise en lumière par un éclairage directionnel précis, et plusieurs câblages techniques sont nécessaires pour alimenter les projecteurs numériques, les écrans ACL et les haut-parleurs intégrés. Une carte explicative est aussi présente à l’entrée de la pièce pour orienter le visiteur sans briser l’atmosphère.
 <div style="display: flex; justify-content: space-around;">
